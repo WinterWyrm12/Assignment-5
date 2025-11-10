@@ -2,7 +2,7 @@
 This repository contains your starter code for the Restaurant API assignment focusing on middleware implementation and API documentation.
 
 ## Postman Documentation:
-[![Postman Docs]] (https://documenter.getpostman.com/view/49875616/2sB3WtqxrF)
+(https://documenter.getpostman.com/view/49875616/2sB3WtqxrF)
 
 ## Getting Started
 1. Clone this repository to your local machine
